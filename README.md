@@ -1,20 +1,4 @@
-# Advanced Priority Queue (Java)
+🧮 Advanced Priority Queue Project  
+I implemented a dynamic **Priority Queue** using a parameterized heap that supports both **min-heap** and **max-heap** modes, and tested its performance using a custom tester.
 
-This project implements a custom **Advanced Priority Queue** using a parameterized heap structure that supports both **min-heap** and **max-heap** modes.
-
-## 🚀 Features
-- Dynamic resizing of the underlying heap array
-- Generic implementation supporting any `Comparable` type
-- Toggle between min-heap and max-heap modes
-- Includes a custom tester (`Tester.java`) to validate behavior
-
-## 📁 Files
-- `AdvancedPQ.java`: Core implementation
-- `Tester.java`: Test class to demonstrate and evaluate queue operations
-
-## 🖥️ How to Compile & Run
-Make sure you have Java installed, then:
-
-```bash
-javac AdvancedPQ.java Tester.java
-java Tester
+🔗 [View the full project on GitHub](https://github.com/YahiaAbouelnasr/Advanced-Priority-Queue-Java)
